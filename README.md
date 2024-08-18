@@ -1,4 +1,4 @@
-```markdown
+
 # web-to-svg
 
 一个使用 Puppeteer 和 Sharp 的简单 API，用于捕获网页截图。
